@@ -1,0 +1,12 @@
+﻿生成启动时间为 6/25/2016 9:51:48 AM。
+     1>项目“D:\我的资料库\Documents\GitHub\MyLintCode\Li371 用递归打印数字\Li371 用递归打印数字\Li371 用递归打印数字.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\visualStudio2013\VC\bin\CL.exe /c /ID:\boost_1_55_0 /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\我的资料库\documents\github\mylintcode\li371 用递归打印数字\li371 用递归打印数字\main.cpp(37): error C2797: 'Solution::result': 未执行成员初始值列表内的列表初始化或非静态数据成员初始值
+     1>d:\我的资料库\documents\github\mylintcode\li371 用递归打印数字\li371 用递归打印数字\main.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+     1>已完成生成项目“D:\我的资料库\Documents\GitHub\MyLintCode\Li371 用递归打印数字\Li371 用递归打印数字\Li371 用递归打印数字.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.48
