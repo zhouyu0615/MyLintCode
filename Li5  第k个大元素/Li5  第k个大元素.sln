@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Li5  第k个大元素", "Li5  第k个大元素\Li5  第k个大元素.vcxproj", "{E33D64C4-C34B-4839-AD9A-33024F3C202C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E33D64C4-C34B-4839-AD9A-33024F3C202C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E33D64C4-C34B-4839-AD9A-33024F3C202C}.Debug|Win32.Build.0 = Debug|Win32
+		{E33D64C4-C34B-4839-AD9A-33024F3C202C}.Release|Win32.ActiveCfg = Release|Win32
+		{E33D64C4-C34B-4839-AD9A-33024F3C202C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
