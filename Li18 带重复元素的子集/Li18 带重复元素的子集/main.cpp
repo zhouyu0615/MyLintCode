@@ -12,8 +12,7 @@ public:
 	* @return: A list of lists. All valid subsets.
 	*/
 	vector<vector<int> > subsetsWithDup(const vector<int> &S) {
-		// write your code here
-		
+		// write your code here		
 		vector<int> nums = S;
 		sort(nums.begin(), nums.end());
 
@@ -24,7 +23,6 @@ public:
 private:
 	vector<vector<int>> result;
 	vector <int>  temp;
-
 	void DfsAdd(const vector<int> &nums, int start)
 	{
 		if (temp.size() <= nums.size())
